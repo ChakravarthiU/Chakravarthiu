@@ -7,12 +7,12 @@
     "github_projects": true
   },
   "site": {
-    "title": "ChakravarthiU",
+    "title": "Chakravarthi Ummadisetti",
     "description": "Developer Portfolio",
     "seo": {
-      "title": "ChakravarthiU - Developer Portfolio",
-      "description": "Developer Portfolio of ChakravarthiU",
-      "keywords": "developer, portfolio, github",
+      "title": "Chakravarthi - Developer Portfolio",
+      "description": "Manager Consulting Expert",
+      "keywords": "developer, portfolio, github, expert, manager",
       "author": "ChakravarthiU",
       "og_image": "https://avatars.githubusercontent.com/ChakravarthiU",
       "twitter_card": "summary_large_image",
@@ -20,8 +20,8 @@
     }
   },
   "header": {
-    "greeting": "ChakravarthiU",
-    "tagline": "Developer and Creator."
+    "greeting": "Chakravarthi",
+    "tagline": "A curious builder who turns bold ideas into working systems."
   },
   "social_links": [
     {
@@ -61,14 +61,14 @@
     "title": "Professional Experience",
     "jobs": [
       {
-        "company": "Your Company Name",
-        "role": "Your Job Title",
-        "date": "Start Date - Present",
+        "company": "CGI",
+        "role": "Manager Consulting Expert",
+        "date": "Jan 2009 - Till Date",
         "responsibilities": [
-          "Add your key responsibilities and achievements here",
-          "Include specific technologies you worked with",
-          "Mention any notable projects or impact metrics",
-          "Update this section with your actual work experience"
+          "Manage and guide Team of 20 resources.",
+          "Strong Monitoring Tool skills and Coding skills.",
+          "Have been a long time C# developer and beginner Python developer.",
+          ""
         ],
         "logo": "assets/logos/Placeholder_Logo.png",
         "logo_dark": "assets/logos/Placeholder_Logo.png"
@@ -81,9 +81,9 @@
       {
         "name": "Programming Languages & Technologies",
         "items": [
-          "JavaScript",
+          "C#",
           "Python",
-          "Java",
+          "JavaScript",
           "TypeScript"
         ]
       },
@@ -93,23 +93,23 @@
           "Git",
           "GitHub",
           "VS Code",
-          "Docker"
+          "Visual Studio"
         ]
       },
       {
         "name": "Certifications",
         "items": [
           {
-            "name": "Add your certification name here",
+            "name": "SaFe 6 Practitioner",
             "url": "https://example.com/your-certification-link"
           },
-          "You can also add certifications without links"
+          ""
         ]
       }
     ]
   },
   "github_projects": {
-    "title": "Projects on GitHub"
+    "title": ""
   },
   "footer": {
     "show_social_links": true,
